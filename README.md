@@ -55,9 +55,9 @@ The `TASK1_srivarshini.sql` file contains:
 ER Diagram was created using [dbdiagram.io](https://dbdiagram.io)
 
 ### Image:
-![ER Diagram](./TASK1_ER MODEL.png)
+![ER Diagram](./TASK1_ER_MODEL.png)
 
-> Make sure the image is in the same folder as the README file in your GitHub repo.
+
 
 ---
 
